@@ -19,6 +19,12 @@ public class Book implements Serializable {
 
     public Book() {
     }
+    public Book(long id, String title, String author, float price) {
+        this.id = id;
+        this.title = title;
+        this.author = author;
+        this.price = price;
+    }
 
     @Id
     @Column(name = "book_id")
