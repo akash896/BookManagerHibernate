@@ -1,15 +1,19 @@
 package RestClasses;
 
 import net.codejava.hibernate.Book;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import packageDAO.BookDAO;
 import packageDAO.BookDAOImpl;
 
 @RestController
 public class MainController {
 
-    BookDAOImpl bookDAO = new BookDAOImpl();
+    ApplicationContext context = new ClassPathXmlApplicationContext("bean.xml");
+    BookDAO bookDAO = context.getBean("BookDAOImpl", BookDAO.class);
 
     @RequestMapping("/BookStore")
     public String welcome() {

@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f851a8e-aa63-4cc4-bab8-d0d550b8ce63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RestClasses/BookStoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RestClasses/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/codejava/hibernate/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/packageDAO/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/packageDAO/BookDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/hibernate/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/codejava/hibernate/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/hibernate/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/codejava/hibernate/BookManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/hibernate/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/codejava/hibernate/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/hibernate/BookManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RestClasses/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RestClasses/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RestClasses/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RestClasses/MainController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,22 +108,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578836471017" />
-    <state width="1807" height="470" key="GridCell.Tab.0.bottom" timestamp="1578838791632">
+    <state width="1807" height="470" key="GridCell.Tab.0.bottom" timestamp="1578932271445">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="470" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578838791632" />
-    <state width="1807" height="470" key="GridCell.Tab.0.center" timestamp="1578838791631">
+    <state width="1807" height="470" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578932271445" />
+    <state width="1807" height="470" key="GridCell.Tab.0.center" timestamp="1578932271444">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="470" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578838791631" />
-    <state width="1807" height="470" key="GridCell.Tab.0.left" timestamp="1578838791631">
+    <state width="1807" height="470" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578932271444" />
+    <state width="1807" height="470" key="GridCell.Tab.0.left" timestamp="1578932271443">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="470" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578838791631" />
-    <state width="1807" height="470" key="GridCell.Tab.0.right" timestamp="1578838791631">
+    <state width="1807" height="470" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578932271443" />
+    <state width="1807" height="470" key="GridCell.Tab.0.right" timestamp="1578932271444">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="470" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578838791631" />
+    <state width="1807" height="470" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578932271444" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1578836685274">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
